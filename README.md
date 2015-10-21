@@ -1,7 +1,7 @@
 # Tool can fix subtitle time for movies
 It's a usfull tool can help you make fix delay/hurry subtitle. Program can shift time to forward or backward, for all expressions.
 
-How it run? Use go lang [a link](https://golang.org/)
+How it run? Use [GOlang](https://golang.org/)
 
     go run subtitle.go
 
