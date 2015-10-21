@@ -1,5 +1,5 @@
 # GOlang-Tool-fix-subtitle
-It's a usfull tool can help you make fix delay/hurry subtitle. Program can shift time to forward or back, for all expressions.
+It's a usfull tool can help you make fix delay/hurry subtitle. Program can shift time to forward or backward, for all expressions.
 
 How it run:
 
